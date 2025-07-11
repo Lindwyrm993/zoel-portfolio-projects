@@ -4,17 +4,6 @@ Este repositorio central contiene una colección organizada de todos mis proyect
 
 ---
 
-## Estructura del Repositorio
-
-| Carpeta        | Descripción |
-|----------------|-------------|
-| `01-PERSONAL/` | Proyectos personales desarrollados por iniciativa propia. |
-| `02-SCHOOL/`   | Proyectos académicos, organizados por semestre o materia. |
-| `03-SANDBOX/`  | Experimentos, tests con librerías, ejercicios rápidos. |
-| `04-RESOURCES/`| Apuntes, plantillas, notebooks de estudio y otros recursos. |
-
----
-
 ## Tecnologías frecuentes
 
 - Python, Jupyter Notebook  
@@ -34,17 +23,6 @@ de forma profesional, estructurada y en constante crecimiento.
 # Zoel Projects Hub
 
 This central repository contains an organized collection of all my programming projects, both personal and academic. The goal is to keep a clean, documented, and reusable history of my development journey.
-
----
-
-## Repository Structure
-
-| Folder         | Description |
-|----------------|-------------|
-| `01-PERSONAL/` | Personal projects developed independently. |
-| `02-SCHOOL/`   | Academic projects organized by semester or subject. |
-| `03-SANDBOX/`  | Experiments, library tests, and quick exercises. |
-| `04-RESOURCES/`| Notes, templates, study notebooks, and other resources. |
 
 ---
 
