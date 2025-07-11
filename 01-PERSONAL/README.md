@@ -4,8 +4,4 @@ Esta carpeta contiene proyectos personales desarrollados por iniciativa propia. 
 
 ---
 
-# 01-PERSONAL
-
 This folder contains personal projects developed independently. It includes experimental ideas, useful apps, and long-term individual projects.
-
----
